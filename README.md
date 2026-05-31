@@ -24,8 +24,7 @@ O Naive Bayes assume independência estrita entre os atributos, o que limitou se
 ## Como Executar
 
 1. Clone este repositório:
-```bash
-git clone https://github.com/SeuUsuario/nome-do-repositorio.git  ```
+git clone https://github.com/SeuUsuario/nome-do-repositorio.git 
 
 2. Abra o arquivo .ipynb na sua IDE favorita (VS Code, Jupyter) ou diretamente no Google Colab.
 3. O dataset é importado nativamente pela biblioteca scikit-learn, portanto não é necessário baixar arquivos CSV externos. Basta executar as células sequencialmente.
