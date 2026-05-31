@@ -22,10 +22,15 @@ O modelo **KNN Otimizado** apresentou uma performance superior e consideravelmen
 O Naive Bayes assume independência estrita entre os atributos, o que limitou seu poder preditivo, dado que as proporções geométricas de um tumor possuem dependências naturais. O KNN, por outro lado, operando num espaço multidimensional devidamente escalonado, conseguiu mapear a similaridade estrutural dos casos críticos com maior precisão, reduzindo o número de Falsos Negativos.
 
 ## Como Executar
+
 1. Clone este repositório:
 ```bash
-git clone [https://github.com/SeuUsuario/nome-do-repositorio.git](https://github.com/SeuUsuario/nome-do-repositorio.git)
+git clone https://github.com/SeuUsuario/nome-do-repositorio.git  ```
+
 2. Abra o arquivo .ipynb na sua IDE favorita (VS Code, Jupyter) ou diretamente no Google Colab.
 3. O dataset é importado nativamente pela biblioteca scikit-learn, portanto não é necessário baixar arquivos CSV externos. Basta executar as células sequencialmente.
 
-Desenvolvido como aplicação prática de Análise e Visualização de Dados no escopo do bacharelado em Tecnologia da Informação para Negócios Digitais
+Desenvolvido como aplicação prática de Análise e Visualização de Dados no escopo do bacharelado em Tecnologia da Informação para Negócios Digitais. 
+
+
+
