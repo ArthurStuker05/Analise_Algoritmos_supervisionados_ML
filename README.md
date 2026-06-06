@@ -26,7 +26,7 @@ O Naive Bayes assume independência estrita entre os atributos, o que limitou se
 1. Clone este repositório:
 
 ```bash
-git clone [https://github.com/ArthurStuker05/Analise_Algoritimos_supervisionados_ML.git](https://github.com/ArthurStuker05/Analise_Algoritimos_supervisionados_ML.git)
+git clone [https://github.com/ArthurStuker05/Analise_Algoritmos_supervisionados_ML.git](https://github.com/ArthurStuker05/Analise_Algoritmos_supervisionados_ML.git)
 ```
 
 2. Abra o arquivo .ipynb na sua IDE favorita (VS Code, Jupyter) ou diretamente no Google Colab.
